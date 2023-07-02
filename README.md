@@ -7,3 +7,6 @@ I added a 'reverse engine button' and a 'bay button'. For now it is pretty basic
 You can download the html to have it locally and acces it even if you're not online.
 
 **Plase if you're interested in endless-sky, check my [plugin project](https://github.com/OcelotWalrus/Cromha-Expansion-plugin)!
+
+Preview of the 1.0:
+![image](https://github.com/OcelotWalrus/endless-sky-ship-builder2.0/assets/87318892/3302e2b6-54b6-4845-9102-fae797cf8c79)
